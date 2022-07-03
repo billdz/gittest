@@ -1,0 +1,7 @@
+numpy
+requests
+pillow
+pygame
+ipython
+autopep8 自动格式化
+yapf 格式化
